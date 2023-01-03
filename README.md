@@ -1,7 +1,7 @@
 
 # 🦁 A propos de moi:
 
-Étudiant en troisième année de licence informatique, j'aime développer des projets pour mettre en pratique des notions vues durant mes cours (Analyseur Syntaxique, Space Invader, Mini Logiciel de gestion, Snake....) et je développe des projets personnels qui me tiennes à coeur ou juste pour le fun. Je suis motivé par le développement informatique. Fan inconditionnel de python et de Java, une grande partie de mes projets sont réalisés dans ces langages.
+Étudiant en troisième année de licence informatique, j'aime développer des projets pour mettre en pratique des notions vues durant mes cours (Analyseur Syntaxique, Space Invader, Mini Logiciel de gestion, Snake....) et je développe des projets personnels qui me tiennes à coeur ou juste pour le fun. Je suis motivé par le développement informatique. Fan inconditionnel de python, une grande partie de mes projets sont réalisés dans ce langage.
 
 # 💻 Tech Stack:
 
