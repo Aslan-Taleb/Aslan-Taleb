@@ -30,8 +30,6 @@
     </td>
   </tr>
 </table>
-<div align="center"><h5><i>"Do The Hard Work, Especially When You Don’t Feel Like It"</i></h5></div>
-<div align="center">
 
 ![Snake animation](https://github.com/Aslan-Taleb/Aslan-Taleb/blob/output/github-contribution-grid-snake.svg)
 
