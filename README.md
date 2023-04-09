@@ -13,6 +13,8 @@
 
 <a href="https://linkedin.com/in/aslan-taleb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aslan-taleb" height="30" width="40" /></a>
 </p>
+<a href="https://www.codingame.com/profile/2e7af8d62478c5e1606629741662a15a8911345" target="_blank"><img align="center" src="https://static.codingame.com/servlet/fileservlet?id=117303605&style=avatar" alt="Votre nom" height="30" width="30" /></a>
+
 
 # 💻Languages and Tools:
 
