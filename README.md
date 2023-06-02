@@ -3,7 +3,7 @@
 
 # 🦁 About me:
 
-- 🔭 I’m currently working on [100Days100Projects](https://github.com/Aslan-Taleb/100Days100Projects)
+- 🔭 I’m currently working on [Learning-Python](https://github.com/Aslan-Taleb/Learning-Python)
 
 - 🌱 I’m currently learning/improving **Python**
 
