@@ -1,5 +1,5 @@
 <h1 align="center"> Aslan Taleb</h1>
-<h3 align="center">A passionate developer from France</h3>
+<h3 align="center">A guy dedicated to constant improvement</h3>
 
 # 🦁 About me:
 
