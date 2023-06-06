@@ -3,9 +3,9 @@
 
 # 🦁 About me:
 
-- 🔭 I’m currently working on [Learning-Python](https://github.com/Aslan-Taleb/Learning-Python)
+- 🔭 I’m currently working on [Learning-Dart-Flutter](https://github.com/Aslan-Taleb/Learning-Dart-Flutter)
 
-- 🌱 I’m currently learning/improving **Python**
+- 🌱 I’m currently learning/improving **Dart/Flutter**
 
 - 📫 How to reach me **aslantalebselim@gmail.com**
 
