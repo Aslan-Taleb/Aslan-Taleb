@@ -4,7 +4,6 @@
 # 🦁 About me:
 
 - 🔭 I’m currently working on ..
-- <img src="https://tryhackme-badges.s3.amazonaws.com/aslantalebselim.png" alt="TryHackMe">
 
 - 🌱 I’m currently focusing on enhancing my skills in **Cybersecurity**.
 
