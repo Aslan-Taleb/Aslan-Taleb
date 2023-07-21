@@ -4,6 +4,7 @@
 # 🦁 About me:
 
 - 🔭 I’m currently working on ..
+- <img src="https://tryhackme-badges.s3.amazonaws.com/aslantalebselim.png" alt="TryHackMe">
 
 - 🌱 I’m currently focusing on enhancing my skills in **Cybersecurity**.
 
@@ -29,7 +30,7 @@
     <td>
      <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aslan-Taleb&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="AslaN" />
     </td>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/aslantalebselim.png" alt="TryHackMe">
+    
   </tr>
 </table>
 
