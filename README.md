@@ -29,9 +29,6 @@
     <td>
      <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aslan-Taleb&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="AslaN" />
     </td>
-    <td>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/AslaN.png" alt="TryHackMe">
-    </td>
   </tr>
 </table>
 
