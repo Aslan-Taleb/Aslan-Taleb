@@ -29,7 +29,9 @@
     <td>
      <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aslan-Taleb&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="AslaN" />
     </td>
-    
+    <td>
+    <script src="https://tryhackme.com/badge/1861890"></script>
+    </td>
   </tr>
 </table>
 
