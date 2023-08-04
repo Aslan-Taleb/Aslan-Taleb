@@ -3,7 +3,7 @@
 
 # 🦁 About me:
 
-- 🔭 I’m currently working on ..
+- 🔭 I’m currently working on **Exploring-CyberSec-Cryptology**
 
 - 🌱 I’m currently focusing on enhancing my skills in **Cybersecurity**.
 
