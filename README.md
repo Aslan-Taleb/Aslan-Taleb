@@ -25,15 +25,12 @@
 
 <table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aslan-Taleb&theme=dark&show_icons=true"/>
+    <td> 
+      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aslan-taleb&theme=dark" alt="aslan-taleb" /></p> 
     </td>
     <td>
      <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aslan-Taleb&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="AslaN" />
     </td>
-    <td>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aslan-taleb&" alt="aslan-taleb" /></p>
-      </td>
   </tr>
 </table>
 
