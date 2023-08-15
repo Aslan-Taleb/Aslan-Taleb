@@ -12,7 +12,7 @@
 # 🌐Connect with me:
 
 <a href="https://linkedin.com/in/aslan-taleb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aslan-taleb" height="30" width="40" /></a>
-<a href="https://leetcode.com/Aslan-Taleb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="Aslan-Taleb LeetCode" height="30" width="40" /></a>
+[Chess.com](https://www.chess.com/member/t_aslan)
 
 </p>
 
