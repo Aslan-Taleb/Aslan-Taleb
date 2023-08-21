@@ -1,6 +1,5 @@
-[![Chess](https://img.shields.io/badge/Chess-%E2%99%9F-764ABC)](https://www.chess.com/member/t_aslan)
+
 <h1 align="center"> Aslan Taleb</h1>
-<h3 align="center">A guy dedicated to constant improvement</h3>
 
 # 🦁 About me:
 
