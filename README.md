@@ -3,9 +3,9 @@
 
 # 🦁 About me:
 
-- 🔭 I’m currently working on **Learning-Dart-Flutter**
+- 🔭 I’m currently working on **Exploring-CyberSec-Cryptology**
 
-- 🌱 I’m currently focusing on enhancing my skills in **Mobile Development**.
+- 🌱 I’m currently focusing on enhancing my skills in **Cybersecurity and Cryptology**.
 
 - 📫 How to reach me **aslantalebselim@gmail.com**
 
