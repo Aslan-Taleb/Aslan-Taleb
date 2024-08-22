@@ -3,9 +3,9 @@
 
 # 🦁 About me:
 
-- 🔭 I’m currently working on **Exploring-CyberSec-Cryptology**
+- 🔭 I’m currently working on **CoderOdysseyQuest**
 
-- 🌱 I’m currently focusing on enhancing my skills in **Cybersecurity and Cryptology**.
+- 🌱 I’m currently focusing on enhancing my skills in **Java, DevOps, and Cybersecurity.**
 
 - 📫 How to reach me **aslantalebselim@gmail.com**
 
