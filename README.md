@@ -41,9 +41,9 @@
 
   <!-- Sécurité offensive -->
   <a href="https://www.kali.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/></a>
-  <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" width="50" height="50"/></a>
-  <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" width="50" height="50"/></a>
-  <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark" width="50" height="50"/></a>
+  <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" width="70" height="50"/></a>
+  <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" width="70" height="50"/></a>
+  <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark" width="70" height="50"/></a>
 
 </p>
 
