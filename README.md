@@ -27,16 +27,24 @@
   <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/> 
 </a>
 <a href="https://nmap.org/" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Nmap_logo.svg" alt="Nmap" width="40" height="40"/> 
+  <img src="https://svn.nmap.org/nmap/docs/images/nmap-logo-256x256.png" alt="Nmap" width="40" height="40"/> 
 </a>
 <a href="https://www.metasploit.com/" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Metasploit-logo.png" alt="Metasploit" width="40" height="40"/> 
+  <img src="https://avatars.githubusercontent.com/u/2170453?s=200&v=4" alt="Metasploit" width="40" height="40"/> 
 </a>
 <a href="https://portswigger.net/burp" target="_blank"> 
-  <img src="https://portswigger.net/burp/images/logos/burp.svg" alt="Burp Suite" width="40" height="40"/> 
+  <img src="https://portswigger.net/content/images/icons/favicon.ico" alt="Burp Suite" width="40" height="40"/> 
 </a>
-<a href="https://wireshark.org" target="_blank">
+<a href="https://www.wireshark.org/" target="_blank">
   <img src="https://www.wireshark.org/assets/images/ws-logo.svg" alt="Wireshark" width="40" height="40"/>
+</a><a href="https://github.com/OJ/gobuster" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/1324743?s=200&v=4" alt="Gobuster" width="40" height="40"/>
+</a>
+<a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/26296056?s=200&v=4" alt="Hydra" width="40" height="40"/>
+</a>
+<a href="https://github.com/ffuf/ffuf" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/49635819?s=200&v=4" alt="ffuf" width="40" height="40"/>
 </a></p>
 
 ![Snake animation](https://github.com/Aslan-Taleb/Aslan-Taleb/blob/output/github-contribution-grid-snake.svg)
