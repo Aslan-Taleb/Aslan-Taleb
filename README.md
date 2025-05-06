@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/AslaN">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/AslaN.png" alt="TryHackMe Badge">
+    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1861890" alt="TryHackMe Badge">
   </a>
 </p>
 
