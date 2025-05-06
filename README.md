@@ -19,7 +19,9 @@
 ## 🚩 TryHackMe :
 
 <p align="center">
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1861890" style='border:none;'></iframe>
+  <a href="https://tryhackme.com/p/AslaN">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/AslaN.png" alt="TryHackMe Badge">
+  </a>
 </p>
 
 ![Snake animation](https://github.com/Aslan-Taleb/Aslan-Taleb/blob/output/github-contribution-grid-snake.svg)
