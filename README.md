@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/AslaN">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/AslaN.png" alt="Your Image Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/AslaN.png" alt="TryHackMe" />
   </a>
 </p>
 
